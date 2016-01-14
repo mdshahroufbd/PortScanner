@@ -20,5 +20,7 @@ function convertRange($start = 80, $end = 80) {
     for($i = $start; $i <= $end; $i++){
         array_push($r, $i);
     }
+    
+    return $r;
 }
 ?>
