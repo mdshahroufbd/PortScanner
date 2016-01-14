@@ -14,7 +14,11 @@ function scan($host = "google.com", $port = array(80)){
     }
 }
 
-function convertRange($start = 0, $end = 0) {
-    $a = 0;
+function convertRange($start = 80, $end = 80) {
+    $r = array();
+    
+    for($i = $start; $i <= $end; $i++){
+        array_push($r, $i);
+    }
 }
 ?>
