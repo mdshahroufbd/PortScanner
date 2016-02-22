@@ -1,4 +1,4 @@
-#Simple non code license (SNCL) v1.10.0
+#Simple Non Code License (SNCL) v1.10.0
 
 Version 1.10.0
 
